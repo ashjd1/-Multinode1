@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is from another machine and git"
+echo "This is using Two machine and git"
